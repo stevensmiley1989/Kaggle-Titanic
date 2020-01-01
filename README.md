@@ -1,12 +1,4 @@
-<br/>
-<p align="center">
-!  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.gif">
-</p>
 
-<p align="center">
-
-  <br/>
-</p>
 
 # Kaggle-Titanic
 ## by Steven Smiley
@@ -63,3 +55,27 @@ The content developed by Steven Smiley is distributed under the following licens
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+   
+   ## images
+   
+   <br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure0.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure1.png">
+  <br/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.png">
+  <br/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure3.png">
+  <br/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure4.png">
+  <br/>
+</p>
