@@ -5,8 +5,26 @@ This respository hosts the files I used to create my Kaggle submission for the T
 
 
 ## Index
+
 * [stevensmiley-kaggle-competition-titanic.ipynb](stevensmiley-kaggle-competition-titanic.ipynb)
 * [license](#license)
+
+
+
+## credits
+
+* [Kaggle](https://www.kaggle.com/)
+
+## contact-info
+
+Feel free to contact me to discuss any issues, questions, or comments.
+
+* Email: [stevensmiley1989@gmail.com](mailto:stevensmiley1989@gmail.com)
+* GitHub: [stevensmiley1989](https://github.com/stevensmiley1989)
+* LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
+* Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
+
+
 
 ### License
 
