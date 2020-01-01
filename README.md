@@ -9,8 +9,8 @@ This respository hosts the files I used to create my Kaggle submission for the T
 # INDEX
 
 * [Background](#Background)
-   * [Description of Competition](#Description of Competition)
-   * [The Challenge](#The Challenge)
+   * [Description of Competition](#Description-of-Competition)
+   * [The Challenge](#The-Challenge)
 * [Jupyter](#Jupyter)
 * [credits](#credits)
 * [contact-info](#contact-info)
@@ -19,12 +19,12 @@ This respository hosts the files I used to create my Kaggle submission for the T
 
 
 ## Background on Kaggle Competition
-### Description of Competition
+### Description-of-Competition
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
 
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.
 
-### The Challenge
+### The-Challenge
 
 The sinking of the Titanic is one of the most infamous shipwrecks in history.
 
