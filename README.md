@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.gif">
+!  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.gif">
 </p>
 
 <p align="center">
