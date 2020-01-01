@@ -10,7 +10,7 @@ This respository hosts the files I used to create my Kaggle submission for the T
 
 * [Jupyter](#Jupyter)
 * [images](#images)
-* (#credits)
+* [credits](#credits)
 * [license](#license)
 
 
