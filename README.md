@@ -6,4 +6,8 @@
 ```
 
 ## Index
+### Jupyter Notebook
 * [stevensmiley-kaggle-competition-titanic.ipynb](stevensmiley-kaggle-competition-titanic.ipynb)
+
+### License
+
