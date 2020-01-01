@@ -10,6 +10,7 @@ This respository hosts the files I used to create my Kaggle submission for the T
 
 * [Jupyter](#Jupyter)
 * [license](#license)
+* [images](#images)
 
 ## Jupyter
 Jupyter Notebook(s) written in Python.
@@ -32,6 +33,29 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
+## images
+
+<br/>
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure0.png">
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure1.png">
+<br/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.png">
+<br/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure3.png">
+<br/>
+</p>
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure4.png">
+<br/>
+</p>
 
 
 ### License
@@ -56,26 +80,3 @@ The content developed by Steven Smiley is distributed under the following licens
    See the License for the specific language governing permissions and
    limitations under the License.
    
-   ## images
-   
-   <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure0.png">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure1.png">
-  <br/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.png">
-  <br/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure3.png">
-  <br/>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure4.png">
-  <br/>
-</p>
