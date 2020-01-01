@@ -9,6 +9,12 @@ This respository hosts the files I used to create my Kaggle submission for the T
 * [stevensmiley-kaggle-competition-titanic.ipynb](stevensmiley-kaggle-competition-titanic.ipynb)
 * [license](#license)
 
+## Juypter Notebook
+Jupyter Notebook(s) demonstrating scikit-learn functionality.
+
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [stevensmiley-kaggle-competition-titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/stevensmiley-kaggle-competition-titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
 
 ## credits
