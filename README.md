@@ -14,7 +14,7 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Jupyter/stevensmiley-kaggle-competition-titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/Jupyter/stevensmiley-kaggle-competition-titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
+| [stevensmiley-kaggle-competition-titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/Jupyter/stevensmiley-kaggle-competition-titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
 
 ## credits
