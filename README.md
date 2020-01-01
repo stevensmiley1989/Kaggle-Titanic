@@ -6,10 +6,10 @@ This respository hosts the files I used to create my Kaggle submission for the T
 
 ## Index
 
-* [stevensmiley-kaggle-competition-titanic.ipynb](stevensmiley-kaggle-competition-titanic.ipynb)
+* [stevensmiley-kaggle-competition-titanic.ipynb](#Jupyter Notebook)
 * [license](#license)
 
-## Juypter Notebook
+## Jupyter Notebook
 Jupyter Notebook(s) demonstrating scikit-learn functionality.
 
 | Notebook | Description |
