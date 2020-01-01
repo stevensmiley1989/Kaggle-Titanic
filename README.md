@@ -6,4 +6,4 @@
 ```
 
 ## Index
-* [stevensmiley-kaggle-competition-titanic.ipynb](#stevensmiley-kaggle-competition-titanic.ipynb)
+* [stevensmiley-kaggle-competition-titanic.ipynb](stevensmiley-kaggle-competition-titanic.ipynb)
