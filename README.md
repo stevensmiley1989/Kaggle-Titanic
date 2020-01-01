@@ -2,7 +2,6 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Titanic_SS_GIF.gif">
 </p>
-
 # Kaggle-Titanic
 ## Repository by Steven Smiley
 
