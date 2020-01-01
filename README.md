@@ -9,8 +9,9 @@ This respository hosts the files I used to create my Kaggle submission for the T
 ## Index
 
 * [Jupyter](#Jupyter)
-* [images](#images)
 * [credits](#credits)
+* [contact-info](#contact-info)
+* [images](#images)
 * [license](#license)
 
 
