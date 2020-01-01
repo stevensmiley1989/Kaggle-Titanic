@@ -6,7 +6,7 @@ This respository hosts the files I used to create my Kaggle submission for the T
 
 ## Index
 
-* [Jupyter Notebook](#Jupyter Notebook)
+* [Jupyter](#Jupyter)
 * [license](#license)
 
 ## Jupyter Notebook
