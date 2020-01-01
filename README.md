@@ -6,7 +6,7 @@ This respository hosts the files I used to create my Kaggle submission for the T
 
 ## Index
 
-* [stevensmiley-kaggle-competition-titanic.ipynb](#Jupyter Notebook)
+* [Jupyter Notebook](#Jupyter Notebook)
 * [license](#license)
 
 ## Jupyter Notebook
