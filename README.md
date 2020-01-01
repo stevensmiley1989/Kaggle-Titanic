@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Titanic_SS_GIF.gif">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Projects-Kaggle-Titanic/master/images/Titanic_SS_GIF.gif">
 </p>
 
 # Kaggle-Titanic
@@ -42,7 +42,7 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [stevensmiley-kaggle-competition-titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/Jupyter/stevensmiley-kaggle-competition-titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
+| [stevensmiley-kaggle-competition-titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Projects-Kaggle-Titanic/blob/master/Jupyter/stevensmiley-kaggle-competition-titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
 
 ## credits
@@ -62,26 +62,26 @@ Feel free to contact me to discuss any issues, questions, or comments.
 
 <br/>
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure0.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Projects-Kaggle-Titanic/master/images/Figure0.png">
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure1.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Projects-Kaggle-Titanic/master/images/Figure1.png">
 <br/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Projects-Kaggle-Titanic/master/images/Figure2.png">
 <br/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure3.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Projects-Kaggle-Titanic/master/images/Figure3.png">
 <br/>
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure4.png">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Projects-Kaggle-Titanic/master/images/Figure4.png">
 <br/>
 </p>
 
