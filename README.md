@@ -1,10 +1,10 @@
 <br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley/stevensmiley1989/Kaggle-Titanic/blob/master/images/coversmall_alt.png">
+  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/blob/master/images/coversmall_alt.png">
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/stevensmiley/stevensmiley1989/Kaggle-Titanic/blob/master/images/coversmall_alt.png">
+  <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/blob/master/images/coversmall_alt.png">
   <br/>
 </p>
 
