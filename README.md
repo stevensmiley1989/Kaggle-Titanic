@@ -1,3 +1,13 @@
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stevensmiley/stevensmiley1989/Kaggle-Titanic/blob/master/images/Figure2.png">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/stevensmiley/stevensmiley1989/Kaggle-Titanic/blob/master/images/Figure2.png">
+  <br/>
+</p>
+
 # Kaggle-Titanic
 ## by Steven Smiley
 
