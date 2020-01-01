@@ -9,8 +9,10 @@ This respository hosts the files I used to create my Kaggle submission for the T
 ## Index
 
 * [Jupyter](#Jupyter)
-* [license](#license)
 * [images](#images)
+* (#credits)
+* [license](#license)
+
 
 ## Jupyter
 Jupyter Notebook(s) written in Python.
