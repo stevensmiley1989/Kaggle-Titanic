@@ -6,7 +6,7 @@
 This respository hosts the files I used to create my Kaggle submission for the Titanic dataset competition.
 
 
-# Index
+# INDEX
 
 * [Jupyter](#Jupyter)
 * [credits](#credits)
