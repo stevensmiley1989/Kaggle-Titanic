@@ -42,7 +42,7 @@ Jupyter Notebook(s) written in Python.
 
 | Notebook | Description |
 |--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [stevensmiley-kaggle-competition-titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/Jupyter/stevensmiley-kaggle-competition-titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
+| [StevenSmiley-Kaggle_Competition-Titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/Jupyter/StevenSmiley-Kaggle_Competition-Titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
 
 ## credits
@@ -82,6 +82,17 @@ Feel free to contact me to discuss any issues, questions, or comments.
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure4.png">
+<br/>
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure5.png">
+<br/>
+</p>
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure6.png">
 <br/>
 </p>
 

@@ -1,33 +1,6 @@
 eXtreme Gradient Boost (XGB)
-BEST PARAMS: {'learning_rate': 1, 'max_depth': 7, 'n_estimators': 5}
+BEST PARAMS: {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
 
-eXtreme Gradient Boost (XGB) 0.769 (+/-0.089) for {'learning_rate': 0.01, 'max_depth': 1, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.799 (+/-0.086) for {'learning_rate': 0.01, 'max_depth': 1, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.809 (+/-0.078) for {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.811 (+/-0.089) for {'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.809 (+/-0.071) for {'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.812 (+/-0.12) for {'learning_rate': 0.01, 'max_depth': 5, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.812 (+/-0.078) for {'learning_rate': 0.01, 'max_depth': 7, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.814 (+/-0.117) for {'learning_rate': 0.01, 'max_depth': 7, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.812 (+/-0.078) for {'learning_rate': 0.01, 'max_depth': 9, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.816 (+/-0.111) for {'learning_rate': 0.01, 'max_depth': 9, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.769 (+/-0.089) for {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.811 (+/-0.094) for {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.812 (+/-0.091) for {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.805 (+/-0.11) for {'learning_rate': 0.1, 'max_depth': 3, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.811 (+/-0.072) for {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.788 (+/-0.084) for {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.816 (+/-0.077) for {'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.782 (+/-0.078) for {'learning_rate': 0.1, 'max_depth': 7, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.814 (+/-0.077) for {'learning_rate': 0.1, 'max_depth': 9, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.788 (+/-0.069) for {'learning_rate': 0.1, 'max_depth': 9, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.801 (+/-0.091) for {'learning_rate': 1, 'max_depth': 1, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.811 (+/-0.08) for {'learning_rate': 1, 'max_depth': 1, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.801 (+/-0.111) for {'learning_rate': 1, 'max_depth': 3, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.775 (+/-0.069) for {'learning_rate': 1, 'max_depth': 3, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.816 (+/-0.113) for {'learning_rate': 1, 'max_depth': 5, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.769 (+/-0.066) for {'learning_rate': 1, 'max_depth': 5, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.827 (+/-0.112) for {'learning_rate': 1, 'max_depth': 7, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.773 (+/-0.083) for {'learning_rate': 1, 'max_depth': 7, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.812 (+/-0.106) for {'learning_rate': 1, 'max_depth': 9, 'n_estimators': 5}
-eXtreme Gradient Boost (XGB) 0.775 (+/-0.06) for {'learning_rate': 1, 'max_depth': 9, 'n_estimators': 500}
+eXtreme Gradient Boost (XGB) 0.809 (+/-0.054) for {'learning_rate': 0.01, 'max_depth': 1, 'n_estimators': 500}
+eXtreme Gradient Boost (XGB) 0.821 (+/-0.038) for {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
+eXtreme Gradient Boost (XGB) 0.79 (+/-0.023) for {'learning_rate': 1, 'max_depth': 1, 'n_estimators': 500}
