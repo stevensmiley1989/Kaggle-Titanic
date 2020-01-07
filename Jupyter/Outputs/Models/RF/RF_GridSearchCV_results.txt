@@ -1,5 +1,7 @@
 Random Forest (RF)
-BEST PARAMS: {'max_depth': None, 'n_estimators': 500}
+BEST PARAMS: {'criterion': 'entropy', 'max_depth': None, 'max_features': 0.25, 'n_estimators': 1000}
 
-Random Forest (RF) 0.756 (+/-0.045) for {'max_depth': 1, 'n_estimators': 500}
-Random Forest (RF) 0.806 (+/-0.054) for {'max_depth': None, 'n_estimators': 500}
+Random Forest (RF) 0.765 (+/-0.072) for {'criterion': 'entropy', 'max_depth': 1, 'max_features': 0.25, 'n_estimators': 500}
+Random Forest (RF) 0.77 (+/-0.084) for {'criterion': 'entropy', 'max_depth': 1, 'max_features': 0.25, 'n_estimators': 1000}
+Random Forest (RF) 0.796 (+/-0.033) for {'criterion': 'entropy', 'max_depth': None, 'max_features': 0.25, 'n_estimators': 500}
+Random Forest (RF) 0.799 (+/-0.03) for {'criterion': 'entropy', 'max_depth': None, 'max_features': 0.25, 'n_estimators': 1000}

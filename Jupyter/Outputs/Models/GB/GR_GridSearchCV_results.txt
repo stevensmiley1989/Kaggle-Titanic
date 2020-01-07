@@ -1,6 +1,6 @@
 Gradient Boost (GB)
 BEST PARAMS: {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
 
-Gradient Boost (GB) 0.812 (+/-0.055) for {'learning_rate': 0.01, 'max_depth': 1, 'n_estimators': 500}
-Gradient Boost (GB) 0.829 (+/-0.048) for {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
-Gradient Boost (GB) 0.797 (+/-0.034) for {'learning_rate': 1, 'max_depth': 1, 'n_estimators': 500}
+Gradient Boost (GB) 0.81 (+/-0.051) for {'learning_rate': 0.01, 'max_depth': 1, 'n_estimators': 500}
+Gradient Boost (GB) 0.825 (+/-0.033) for {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
+Gradient Boost (GB) 0.799 (+/-0.01) for {'learning_rate': 1, 'max_depth': 1, 'n_estimators': 500}

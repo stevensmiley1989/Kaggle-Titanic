@@ -1,6 +1,4 @@
 eXtreme Gradient Boost (XGB)
-BEST PARAMS: {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
+BEST PARAMS: {}
 
-eXtreme Gradient Boost (XGB) 0.809 (+/-0.054) for {'learning_rate': 0.01, 'max_depth': 1, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.821 (+/-0.038) for {'learning_rate': 0.1, 'max_depth': 1, 'n_estimators': 500}
-eXtreme Gradient Boost (XGB) 0.79 (+/-0.023) for {'learning_rate': 1, 'max_depth': 1, 'n_estimators': 500}
+eXtreme Gradient Boost (XGB) 0.818 (+/-0.028) for {}

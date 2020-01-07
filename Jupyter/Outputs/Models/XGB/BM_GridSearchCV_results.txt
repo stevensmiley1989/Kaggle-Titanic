@@ -1,0 +1,9 @@
+Best Model (BM)
+BEST PARAMS: {'C': 10, 'kernel': 'linear'}
+
+Best Model (BM) 0.786 (+/-0.062) for {'C': 0.1, 'kernel': 'linear'}
+Best Model (BM) 0.788 (+/-0.076) for {'C': 0.1, 'kernel': 'rbf'}
+Best Model (BM) 0.799 (+/-0.036) for {'C': 1, 'kernel': 'linear'}
+Best Model (BM) 0.799 (+/-0.064) for {'C': 1, 'kernel': 'rbf'}
+Best Model (BM) 0.818 (+/-0.028) for {'C': 10, 'kernel': 'linear'}
+Best Model (BM) 0.802 (+/-0.076) for {'C': 10, 'kernel': 'rbf'}
