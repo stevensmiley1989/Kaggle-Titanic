@@ -1,8 +1,3 @@
-<br/>
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Titanic_SS_GIF.gif">
-</p>
-
 # Kaggle-Titanic
 ## Repository by Steven Smiley
 
@@ -15,10 +10,9 @@ This respository hosts the files I used to create my Kaggle submission for the T
    * [Description of Competition](#Description-of-Competition)
    * [The Challenge](#The-Challenge)
 * [Jupyter](#Jupyter)
-* [credits](#credits)
-* [contact-info](#contact-info)
-* [images](#images)
-* [license](#license)
+* [Credits](#Credits)
+* [Contact-Info](#Contact-Info)
+* [License](#License)
 
 
 ## Background on Kaggle Competition
@@ -45,11 +39,11 @@ Jupyter Notebook(s) written in Python.
 | [StevenSmiley-Kaggle_Competition-Titanic.ipynb](http://nbviewer.ipython.org/github/stevensmiley1989/Kaggle-Titanic/blob/master/Jupyter/StevenSmiley-Kaggle_Competition-Titanic.ipynb) | My Jupyter notebook written in Python for Kaggle competition. |
 
 
-## credits
+## Credits
 
 * [Kaggle](https://www.kaggle.com/)
 
-## contact-info
+## Contact-Info
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
@@ -58,43 +52,6 @@ Feel free to contact me to discuss any issues, questions, or comments.
 * LinkedIn: [stevensmiley1989](https://www.linkedin.com/in/stevensmiley1989)
 * Kaggle: [stevensmiley](https://www.kaggle.com/stevensmiley)
 
-## images
-
-<br/>
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure0.png">
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure1.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure2.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure3.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure4.png">
-<br/>
-</p>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure5.png">
-<br/>
-</p>
-
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/stevensmiley1989/Kaggle-Titanic/master/images/Figure6.png">
-<br/>
-</p>
 
 
 ### License
